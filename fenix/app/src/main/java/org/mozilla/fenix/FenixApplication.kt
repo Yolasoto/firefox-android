@@ -718,6 +718,7 @@ open class FenixApplication : LocaleAwareApplication(), Provider {
                     components.analytics.crashReporter.submitCaughtException(exception)
                 },
             )
+        rodriguezsoto1004@gmail.com
             WebExtensionSupport.initialize(
                 components.core.engine,
                 components.core.store,
